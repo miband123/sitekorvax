@@ -377,7 +377,7 @@ function App() {
                 3
               </div>
               <h3 className="text-2xl font-bold text-white mb-4">Lançamento</h3>
-              <p className="text-gray-400">Seu site vai ao ar com domínio, hospedagem e suporte completo inclusos.</p>
+              <p className="text-gray-400">Seu site vai ao ar com domínio, hospedagem e suporte completo.</p>
             </div>
           </div>
         </div>
